@@ -1,0 +1,30 @@
+[PROJECT]
+Target=C:\Users\Jim\Documents\dev\pic\PicTDA7449\PicTDA7449.hex
+Processor_Text=PIC16F628A
+CCSVerions=5.025
+Compiler=PCM
+[Target Data]
+FileList=PicTDA7449.c
+[Directories]
+Include=
+[C:\Users\Jim\Documents\dev\pic\PicTDA7449\PicTDA7449]
+Type=4
+[mru-list]
+1=PicTDA7449.c
+[Units]
+Count=1
+1=PicTDA7449 (main)
+
+[ProjectLog]
+Days=1
+D1=06-09-2021
+D1_L=5
+D1_L1=[41573]Project Opened.
+D1_L2=[41612]Project Closed.
+D1_L3=[41647]Project Opened.
+D1_L4=[41653]Started Editing.
+D1_L5=[41991]Stopped Editing.
+
+[Opened Files]
+1=PicTDA7449.c
+2=
